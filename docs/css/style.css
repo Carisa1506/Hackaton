@@ -1450,7 +1450,7 @@ div#pallax_slider {
 }
 
 .dott_star {
-	background-image: url('../images/star_dots.png');
+	background-image: url('../Hackaton/images/star_dots.png');
 	width: 100%;
 	background-position: center center;
 	height: 100%;
@@ -1463,7 +1463,7 @@ div#pallax_slider {
 }
 
 .clouds {
-	background-image: url('../images/claud.png');
+	background-image: url('../Hackaton/images/claud.png');
 	width: 100%;
 	background-position: center center;
 	height: 100%;
@@ -1505,7 +1505,7 @@ div#pallax_slider {
 }
 
 .blue_layer_bottom {
-	background-image: url('../images/blue_layer_bottom.png');
+	background-image: url('../Hackaton/images/blue_layer_bottom.png');
 	height: 132px;
 	width: 100%;
 	background-position: center bottom;
@@ -1520,7 +1520,7 @@ div#pallax_slider {
 }
 
 body.light_blue #full_slider.full_slider_inner {
-	background: url('../images/star_bg2.png');
+	background: url('../Hackaton/images/star_bg2.png');
 	background-size: cover;
 }
 
@@ -1598,7 +1598,7 @@ body.light_blue #full_slider.full_slider_inner {
 section.quality_ser_bg {
 	background-repeat: repeat-x !important;
 	background-position: bottom center !important;
-	background: url(../images/bg_patter_1.png);
+	background: url(../Hackaton/images/bg_patter_1.png);
 }
 
 .about_info {
@@ -1620,7 +1620,7 @@ section.quality_ser_bg {
 section.dottad_star_bg {
 	background-repeat: no-repeat !important;
 	background-position: bottom right !important;
-	background-image: url('../images/gray_dotts.png');
+	background-image: url('../Hackaton/images/gray_dotts.png');
 }
 
 #subscribe_form input {
@@ -1642,7 +1642,7 @@ section.dottad_star_bg {
 
 .grow_business {
 	background-position: right bottom !important;
-	background: url(../images/bg_patter_2.png);
+	background: url(../Hackaton/images/bg_patter_2.png);
 	background-repeat: no-repeat;
 }
 
@@ -2025,7 +2025,7 @@ section.dottad_star_bg {
 }
 
 .stars_dottat {
-	background: url('../images/star_dots.png');
+	background: url('../Hackaton/images/star_dots.png');
 }
 
 .only_parallax {
@@ -2641,7 +2641,7 @@ span.skill {
 }
 
 .mechanic .price_table_active .price_head {
-	background: url('../images/mechanic_service/slide4.jpg');
+	background: url('../Hackaton/images/mechanic_service/slide4.jpg');
 	background-size: cover;
 }
 
@@ -2652,7 +2652,7 @@ span.skill {
 
 #default_theme .banner_slider {
 	min-height: 270px;
-	background-image: url('../images/inner_banner_bg.png');
+	background-image: url('../Hackaton/images/inner_banner_bg.png');
 	background-position: center center;
 }
 
@@ -3207,13 +3207,13 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/it_service/test_bg.png');
+	background-image: url('../Hackaton/images/it_service/test_bg.png');
 	background-size: cover;
 	padding-bottom: 185px;
 }
 
 .cleaning .testmonial_section {
-	background-image: url('../images/cleaning_service/test_bg.png');
+	background-image: url('../Hackaton/images/cleaning_service/test_bg.png');
 	background-size: cover;
 	padding-bottom: 185px;
 }
@@ -3480,7 +3480,7 @@ footer ul.social_icons {
 
 .gross_layout::after {
 	position: absolute;
-	background: url(../images/it_service/dark_bg_img.png);
+	background: url(../Hackaton/images/it_service/dark_bg_img.png);
 	width: 35%;
 	height: 100%;
 	right: 0;
@@ -3505,7 +3505,7 @@ footer ul.social_icons {
 
 .gross_layout.right_gross_layout::after {
 	position: absolute;
-	background: url(../images/it_service/dark_bg_img2.png);
+	background: url(../Hackaton/images/it_service/dark_bg_img2.png);
 	width: 35%;
 	height: 100%;
 	left: 0;
@@ -3613,14 +3613,14 @@ footer ul.social_icons {
 }
 
 .inner_banner_section {
-	background: url('../images/it_service/inner_page_banner.jpg');
+	background: url('../Hackaton/images/it_service/inner_page_banner.jpg');
 	min-height: 245px;
 	background-size: cover;
 	background-position: center center;
 }
 
 .cleaning .inner_banner_section {
-	background: url('../images/cleaning_service/inner_page_banner.jpg');
+	background: url('../Hackaton/images/cleaning_service/inner_page_banner.jpg');
 	min-height: 245px;
 	background-size: cover;
 	background-position: top center;

@@ -1,6 +1,6 @@
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
 } from 'react-router-dom'
 import AppRouter from './AppRouter';
 
